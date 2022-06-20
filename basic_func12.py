@@ -1,12 +1,9 @@
 # Create a function called main.
-from calendar import c
-
-
-def main(a):
 # Create function argument a.
 # Return the value of a.
-
- return a
 # Round the result to 2 decimal places.
+def main(a):
+    a=round(a,2)
+    return a
 a =5.5855
-round(a,2)
+print(main(a))
