@@ -4,4 +4,4 @@ from math import floor
 # Returns the floor division of a and b.
 def main(a,b) :
     a,b=floor
-    return a
+    return a,b
