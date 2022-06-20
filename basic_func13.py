@@ -2,5 +2,6 @@
 # Create function argument a.
 # Returns the square root of a number.
 def main(a) :
-   a=sqrt(2,16) 
-   return a
+ from math import sqrt
+ a = sqrt(16) 
+ return a
