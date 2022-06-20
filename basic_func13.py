@@ -5,5 +5,5 @@ from math import sqrt
 # Returns the square root of a number.
 def main(a) :
  
-    a = sqrt(16) 
+    a = sqrt(a) 
     return a
