@@ -8,6 +8,5 @@ def main(a):
 
  return a
 # Round the result to 2 decimal places.
-a=5.5855
-
-print( round(a,2))
+a =5.5855
+round(a,2)
